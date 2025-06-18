@@ -1,6 +1,7 @@
 PAGE VIEW TIME SERIES VISUALIZER
 
 This project analyzes and visualizes freeCodeCamp forum page views from May 2016 to December 2019. 
+
 It includes three types of visualizations to explore trends and patterns in the dataset.
 
 
