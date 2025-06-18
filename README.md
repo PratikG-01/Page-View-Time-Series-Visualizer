@@ -14,9 +14,8 @@ PROJECT FEATURES
 
      •   Box Plots: Highlights distributions and outliers in page views per year and per month to capture trends and seasonality.
 
-
-
-
+        
+        
 TECHNOLOGIES USED
 
      •   Python
