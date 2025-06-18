@@ -6,6 +6,7 @@ It includes three types of visualizations to explore trends and patterns in the 
 
 
 PROJECT FEATURES
+
      •   Line Plot: Displays daily page views over time to identify overall trends.
 
      •   Bar Plot: Shows average monthly page views grouped by year to compare monthly traffic patterns.
