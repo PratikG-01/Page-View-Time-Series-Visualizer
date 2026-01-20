@@ -14,7 +14,7 @@ It includes three types of visualizations to explore trends and patterns in the 
 
 ---
    
-# Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
